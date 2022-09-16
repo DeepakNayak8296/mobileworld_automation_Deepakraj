@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-16T17:25:21 IST" name="Suite" finished-at="2022-09-16T17:26:46 IST" duration-ms="85437">
+    <groups>
+    </groups>
+    <test started-at="2022-09-16T17:25:21 IST" name="Test" finished-at="2022-09-16T17:26:46 IST" duration-ms="85437">
+      <class name="AutomationScripts.signin">
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.signin@41a0aa7d]" started-at="2022-09-16T17:25:53 IST" name="sign" data-provider="login" finished-at="2022-09-16T17:26:03 IST" duration-ms="9341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dee@8296]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.signin@41a0aa7d]" started-at="2022-09-16T17:26:03 IST" name="sign" data-provider="login" finished-at="2022-09-16T17:26:12 IST" duration-ms="9151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[de]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[934f34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.signin@41a0aa7d]" started-at="2022-09-16T17:26:12 IST" name="sign" data-provider="login" finished-at="2022-09-16T17:26:21 IST" duration-ms="8769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepaknayakwithsameena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sht@9880]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.signin@41a0aa7d]" started-at="2022-09-16T17:26:21 IST" name="sign" data-provider="login" finished-at="2022-09-16T17:26:29 IST" duration-ms="8739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+      </class> <!-- AutomationScripts.signin -->
+      <class name="AutomationScripts.contactus">
+        <test-method signature="contactuslandingpage(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.contactus@2794eab6]" started-at="2022-09-16T17:26:29 IST" name="contactuslandingpage" data-provider="contactus" finished-at="2022-09-16T17:26:38 IST" duration-ms="8070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[deepak@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543212]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kuksnfn iefb jabf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactuslandingpage -->
+        <test-method signature="contactuslandingpage(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.contactus@2794eab6]" started-at="2022-09-16T17:26:38 IST" name="contactuslandingpage" data-provider="contactus" finished-at="2022-09-16T17:26:46 IST" duration-ms="8594" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nayak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nayak@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8296399944]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[humaaaa babeee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactuslandingpage -->
+      </class> <!-- AutomationScripts.contactus -->
+      <class name="AutomationScripts.signup">
+        <test-method signature="sign(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.signup@51c668e3]" started-at="2022-09-16T17:25:21 IST" name="sign" data-provider="signup" finished-at="2022-09-16T17:25:38 IST" duration-ms="17624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[deepak@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[934f34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12/07/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9876543214]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Good things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AutomationScripts.signup@51c668e3]" started-at="2022-09-16T17:25:38 IST" name="sign" data-provider="signup" finished-at="2022-09-16T17:25:53 IST" duration-ms="15064" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[De]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[deepak@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[934f34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12/07/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9876543214]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Takes time]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+      </class> <!-- AutomationScripts.signup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
